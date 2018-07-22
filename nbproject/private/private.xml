@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/IMDB/style/login_register.css</file>
+            <file>file:/C:/xampp/htdocs/IMDB/index.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/DB/table_movies/connection.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/Viewers/chat.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/DB/table_chat/chatControl.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/Viewers/header.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/Controllers/usersControllers/logout.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/Viewers/movies.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/DB/createSchema.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/style/movies_style11.css</file>
+            <file>file:/C:/xampp/htdocs/IMDB/DB/table_chat/connection.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/Models/message.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/Models/movie.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/Controllers/moviesControllers/controlMovies.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/Controllers/chatControllers/chatControl.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/Viewers/home.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/Viewers/notAuser.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/Viewers/404.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/Models/user.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/Controllers/usersControllers/registerLoginControl.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/DB/table_users/registerLoginControl.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/DB/table_movies/moviesFunctions.php</file>
+            <file>file:/C:/xampp/htdocs/IMDB/DB/table_users/connection.php</file>
+        </group>
+    </open-files>
+</project-private>
